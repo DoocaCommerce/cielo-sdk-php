@@ -2,6 +2,8 @@
 
 namespace Cielo\API30\Ecommerce;
 
+use Cielo\API30\Ecommerce\FraudAnalysis\FraudAnalysis;
+
 /**
  * Class Payment.
  */
